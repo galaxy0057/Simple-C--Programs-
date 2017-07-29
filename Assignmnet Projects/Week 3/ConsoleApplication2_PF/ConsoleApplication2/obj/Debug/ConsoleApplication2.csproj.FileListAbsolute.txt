@@ -1,0 +1,5 @@
+C:\Users\shartaz\Desktop\Bellevue\Intro to C#\Assignmnet Projects\Week 3\ConsoleApplication2_PF\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\shartaz\Desktop\Bellevue\Intro to C#\Assignmnet Projects\Week 3\ConsoleApplication2_PF\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\shartaz\Desktop\Bellevue\Intro to C#\Assignmnet Projects\Week 3\ConsoleApplication2_PF\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\shartaz\Desktop\Bellevue\Intro to C#\Assignmnet Projects\Week 3\ConsoleApplication2_PF\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\shartaz\Desktop\Bellevue\Intro to C#\Assignmnet Projects\Week 3\ConsoleApplication2_PF\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
